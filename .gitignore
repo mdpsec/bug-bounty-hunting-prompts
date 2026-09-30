@@ -1,0 +1,23 @@
+# Research artifacts and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.ovpn
+cookies*
+credentials*
+secrets*
+tokens*
+sessions*
+raw/
+sensitive/
+reports/
+hunt/
+*.flow
+*.har
+*.pcap
+*.sqlite
+*.db
