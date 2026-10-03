@@ -9,6 +9,12 @@ dashboard, proof-of-concept runtime, credentials, private operating rules, or
 reference corpus. The prompts are intentionally not runnable without adapting
 those dependencies to your own environment.
 
+Enjoy the workflow, and I hope it gives you plenty of ideas for building your own hunting system.
+
+If you put it to use, I would love to hear what you build.
+
+Follow me on [@mdp_sec](https://x.com/mdp_sec) for more bug bounty research, workflow design, and updates.
+
 ## Provided as-is
 
 This prompt pack is provided as-is, without setup, integration, debugging, or
